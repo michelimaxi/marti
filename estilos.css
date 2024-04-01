@@ -1,0 +1,45 @@
+body{
+    background-color: red;
+    
+}
+p{
+    display: flex;
+    text-align: justify;
+    color: white;
+    align-items: center;
+    justify-content: center;
+    font-size: xx-large;
+    .index{
+        padding-top: 17rem;
+    } 
+    a{
+        text-decoration: none;
+        color: white;
+    
+    }
+}
+a{
+    text-decoration: none;
+    color: white;
+    .index{
+        padding: 50rem;
+    }
+}
+main{
+    background-color: red;
+    p{
+        display: flex;
+        text-align: justify;
+        color: white;
+        align-items: center;
+        justify-content: center;
+        font-size: xx-large;
+    }
+}
+img{
+    width: 100%;
+    margin: 0px 0px 0px;
+    padding: 0px 0px;
+    height: 100%;
+    rotate: left;
+}
